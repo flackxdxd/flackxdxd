@@ -9,6 +9,8 @@ Hello 👋 , I am Junior Front-End Developer from Poland.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=flackxdxd&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=flackxdxd&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+# 🔵 Discord Status:
+[![Discord Presence](https://lanyard.cnrad.dev/api/1154083710434562119)](https://discord.com/users/1154083710434562119)
 ---
 [![](https://visitcount.itsvg.in/api?id=flackxdxd&icon=0&color=0)](https://visitcount.itsvg.in)
 
