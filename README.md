@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hello 👋 , I am Junior Front-End Developer from Poland.
+Hello 👋 , I'm @flackxdxd
+My Passionate is Front-End Developer!
 
 
 # 💻 Tech Stack:
