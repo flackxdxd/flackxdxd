@@ -1,4 +1,6 @@
-
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&duration=4000&pause=500&color=F7F4F4&center=true&vCenter=true&random=false&width=435&lines=Hey+There!+;I'm+flackxdxd" alt="">
+</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flackxdxd&label=Profile%20views&color=0e75b6&style=flat" alt="flackxdxd" /> </p>
