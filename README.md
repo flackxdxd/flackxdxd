@@ -10,7 +10,7 @@
   
 
 - 🌱 I’m currently learning Javascript
-- 💻 Website : https::/flack.fun/
+- 💻 Website : <a href="https::/flack.fun/"</a>
   
 
 <br/>  
