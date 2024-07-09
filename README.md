@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm next</h1>
-- 🌱 I’m currently learning **JavaScript**
-
+<h1 align="center"> next</h1>
 
 
 <h3 align="left">Languages and Tools:</h3>
