@@ -1,4 +1,4 @@
-    <a href="https://neext.fun" target="_blank"> 
+<a href="https://neext.fun" target="_blank"> 
     <img src="https://img.shields.io/badge/neext.fun-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="">
 </a>
 <div style="flex">
